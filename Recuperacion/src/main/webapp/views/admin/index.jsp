@@ -17,12 +17,12 @@
           Bienvenido Administrador ${user.username}
         </a>
         <a class="navbar-brand" href="/admin/view_users" style="display: flex; align-items: center; margin: 10px; margin-left: 40px;">
-          | Usuarios |
+          | Usuarios 
         </a>
         <a  href="" style="display: flex; align-items: center; margin: 10px; margin-left: 40px;"></a>
 
         <a class="navbar-brand text-end" href="/user/logout" style="display: flex; align-items: center; margin: 10px; margin-left: 1100px;">
-          | Cerrar Sesión |
+          | Cerrar Sesión 
         </a>
       </div>
 
